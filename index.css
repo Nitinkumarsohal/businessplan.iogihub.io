@@ -864,13 +864,13 @@ footer{
     box-shadow: none !important;
 }
     .carousel-caption {
-        bottom: 4.20rem;
+        bottom: 1.2rem;
     }
     .carousel-caption p{
         display: none;
     }
     .carousel-caption h5{
-        font-size: 30px;
+        font-size: 22px;
         width: 100%;
 
     }
